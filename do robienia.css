@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: White;
+  background-color: Black;
   color: #ffffff;
   margin: 0;
   padding: 0;
@@ -33,7 +33,7 @@ main {
 }
 
 .obrazek {
-  text-align: end;
+  text-align: centre;
 }
 
 .obrazek img {
@@ -51,7 +51,7 @@ footer {
   color: #888;
 }
 .antyporadnik {
-  background-color: grey;
+  background-color: red;
   padding: 2rem;
   margin-top: 2rem;
   border-left: 4px solid #ff5555;
