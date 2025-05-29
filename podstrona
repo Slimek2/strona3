@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Podstrona</title>
+</head>
+<body>
+    <h1></h1>
+    <p>Wróć na <a href="index.html">stronę główną</a></p>
+</body>
+</html>
