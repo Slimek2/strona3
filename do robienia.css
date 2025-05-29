@@ -1,1 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: White;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
 
+header {
+  background-color: #1b1f30;
+  text-align: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  color: #66fcf1;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+.opis {
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  line-height: 1.6;
+}
+
+.obrazek {
+  text-align: end;
+}
+
+.obrazek img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #66fcf1;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #1b1f30;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #888;
+}
+.antyporadnik {
+  background-color: grey;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-left: 4px solid #ff5555;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
+.antyporadnik h2 {
+  color: #f542bc;
+  margin-bottom: 1rem;
+}
+
+.antyporadnik ol {
+  padding-left: 1.5rem;
+  line-height: 1.6;
+}
+
+.antyporadnik li {
+  margin-bottom: 0.7rem;
+}
+
+.antyporadnik p {
+  margin-top: 1rem;
+  font-style: italic;
+  color: #aaa;
+}
