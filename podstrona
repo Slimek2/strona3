@@ -1,11 +1,49 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    <meta charset="UTF-8">
-    <title>Podstrona</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frontier Sector</title>
+  <link rel="stylesheet" href="../do robienia.css">
 </head>
 <body>
-    <h1>Podstrona</h1>
-    <p>Wróć na <a href="index.html">stronę główną</a></p>
+  <header>
+    <h1>Frontier Sector</h1>
+    <p>Panel automatyzacji w Stellaris</p>
+  </header>
+
+  <main>
+    <section class="opis">
+      <p>
+        Systemy sektorów w Stellaris pomagają zarządzać rozległym imperium. Frontier Sector to domyślne oznaczenie
+        dla nowych planet, które nie zostały jeszcze przypisane do konkretnego celu, jak produkcja surowców,
+        badania czy przemysł.
+      </p>
+    </section>
+
+    <section class="obrazek">
+      <img src="../automatyzacja.png" alt="Panel automatyzacji">
+    </section>
+
+    <section class="opis">
+      <h2>Opcje panelu</h2>
+      <ul>
+        <li><strong>Auto Designated:</strong> Automatyczne przypisanie przeznaczenia planety według AI.</li>
+        <li><strong>Planet Automation:</strong> Umożliwia zarządzanie budową i zatrudnieniem przez AI.</li>
+      </ul>
+      <p>
+        Choć system automatyzacji może być pomocny, AI nie zawsze podejmuje najlepsze decyzje. Zalecane jest
+        ręczne zarządzanie kluczowymi światami, szczególnie na wyższych poziomach trudności.
+      </p>
+    </section>
+
+    <div style="text-align:center; margin-top:2rem;">
+      <a href="../index.html" style="color:#66fcf1;">← Powrót na stronę główną</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>Strona fanowska | Stellaris © Paradox Interactive</p>
+  </footer>
 </body>
 </html>
